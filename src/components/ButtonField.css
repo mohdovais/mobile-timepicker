@@ -1,0 +1,13 @@
+.button-field{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background: transparent;
+    border: none;
+    padding: 10px;
+    border-bottom: 1px solid grey;
+}
+
+.button-field label{
+    color: #ccc;
+}
